@@ -43,8 +43,11 @@ print(x)
 ```
 
 ## Output:
+
+### To find the L and U matrix:
 ![lu decomposition](./images/lu.png)
 
+### To find the LU Decomposition of a matrix:
 ![lu decomposition](./images/ludecom.png)
 
 
